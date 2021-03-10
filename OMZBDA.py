@@ -11,7 +11,6 @@ import numpy as np
 def pullData(fpath, fname):
     ds = Dataset(fpath+fname)
     
-    # pull data
     lons = ds.variables['lon'][:]
     lats = ds.variables['lat'][:]
     deps = ds.variables['depth'][:]
