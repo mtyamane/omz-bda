@@ -5,6 +5,8 @@ Code and figures for oxygen minimum zone (OMZ) analysis of World Ocean Atlas 201
 Yamane MT, Vierra W, Barton W, Miller M  
 *Seasonal trends in Pacific oxygen minimum zones suggest expansion with warming waters*
 
+for MS342 - Chemical and Physical Oceanography in Spring 2021
+
 **data** stores output from OMZ-BDA runs; [WOA18 data](https://www.ncei.noaa.gov/access/world-ocean-atlas-2018/bin/woa18oxnu.pl?parameter=o) as NetCDF files should be stored here
 
 **figures** stores figures used in the study
